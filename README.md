@@ -28,7 +28,7 @@ Solidity / Foundry / OpenZeppelin / Hardhat · FISCO BCOS + WeBASE · Leo (Aleo 
 
 接单与合作：
 
-- 主邮箱（国际/长期）：aaa173134086@gmail.com
+- 主邮箱（国际/长期）：zxy2004sss@outlook.com
 - 国内联系：3046132635@qq.com
 
 中文沟通，中国时区，测试网优先，不碰私钥。
