@@ -2,6 +2,8 @@
 
 Solidity 智能合约开发 / 链上存证 / dApp 全栈。
 
+**[作品集与报价 → https://chichuzxy.github.io/](https://chichuzxy.github.io/)**
+
 写能跑在链上的东西，不留 PPT 项目。每个作品下面都给了合约地址或交易哈希，可以自己点开验证。
 
 ## 正在做
