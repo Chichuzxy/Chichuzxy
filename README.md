@@ -53,7 +53,7 @@ Java · Python · SQL · Linux · Git · Docker · Solidity · Foundry · SQLite
 
 ## 联系
 
-- 国内：3046132635@qq.com
+- 国内：zxy2004sss@qq.com
 - 海外 / 长期：zxy2004sss@outlook.com
 - 作品集：[chichuzxy.github.io](https://chichuzxy.github.io/)
 
