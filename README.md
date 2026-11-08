@@ -53,7 +53,10 @@ Java · Python · SQL · Linux · Git · Docker · Solidity · Foundry · SQLite
 
 ## 联系
 
-- 邮箱：zxy2004sss@qq.com
+- 国内：3046132635@qq.com
+- 海外 / 长期：zxy2004sss@outlook.com
 - 作品集：[chichuzxy.github.io](https://chichuzxy.github.io/)
 
-中文沟通，测试网优先，不碰私钥。目前找实习，也接小额合约开发单。
+中文沟通，测试网优先，不碰私钥。
+
+目前找软件测试 / Java 开发实习；也接小额合约开发单，测试网优先，源码全交付。
