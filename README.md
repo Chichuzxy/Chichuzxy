@@ -33,6 +33,8 @@
 
 ## 其他项目
 
+- [security-audit-lab](https://github.com/Chichuzxy/security-audit-lab) — 合约安全练习：6 问题审计报告（High 1 / Medium 1）+ 重入攻击 PoC + 10 条单元测试，Slither 原始输出可逐条对账
+- 测试用例样例：[小红书首页 58 条（PDF）](https://chichuzxy.github.io/assets/testcases-xiaohongshu-58.pdf)
 - [avaxguard](https://github.com/Chichuzxy/avaxguard) — ERC20 授权风险扫描 + 一键 revoke
 - [privacy-ai-helper](https://github.com/Chichuzxy/privacy-ai-helper) — Aleo ZK 隐私顾问（Leo 电路）
 - [ai-monad-explorer](https://github.com/Chichuzxy/ai-monad-explorer) — AI 分析结果上链可复算
